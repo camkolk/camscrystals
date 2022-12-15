@@ -1,0 +1,45 @@
+
+    body {
+        font-family:'Times New Roman', Times, serif ;
+        font-size: 18px;
+        color: rgb(61, 61, 61);
+        background-color: rgb(255, 238, 215);
+    }
+    li {
+        font-size: 14px;
+        font-style: italic;
+        font-weight: normal;
+    }
+
+    a {
+        color:blueviolet; 
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    .box1 {
+        border-width: 1px;
+        border-style: solid;
+        border-color:aquamarine;
+    }
+    
+    .listheader {
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    .underline {
+        text-decoration: underline;
+    }
+
+    .bold {font-weight: bold;}
+
+    .justify {
+        text-align: justify;
+    }
+
+  
